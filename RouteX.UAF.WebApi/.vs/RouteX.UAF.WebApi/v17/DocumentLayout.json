@@ -3,88 +3,18 @@
   "WorkspaceRootPath": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\enums\\stopactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\enums\\routedirectiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\enums\\roletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\dtos\\routesummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\dtos\\busstopdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\dtos\\routedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\dtos\\locationpushdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\dtos\\livelocationbroadcastdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\dtos\\busdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\dtos\\logoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\dtos\\tokenrefreshdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\models\\loginlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\models\\devicetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\dtos\\verifyotpdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\dtos\\registerstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\models\\locationlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\models\\busstop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\models\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\models\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\models\\stopaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\models\\routedirection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\base\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4B3CB77-7286-49C4-9C11-24B8B1B684C9}|RouteX.UAF.WebApi.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.webapi\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B3CB77-7286-49C4-9C11-24B8B1B684C9}|RouteX.UAF.WebApi.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E77DF2A-6D5E-4115-818E-0E2624071EC9}|..\\RouteX.UAF.DAL\\RouteX.UAF.DAL.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E77DF2A-6D5E-4115-818E-0E2624071EC9}|..\\RouteX.UAF.DAL\\RouteX.UAF.DAL.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B3CB77-7286-49C4-9C11-24B8B1B684C9}|RouteX.UAF.WebApi.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.webapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B4B3CB77-7286-49C4-9C11-24B8B1B684C9}|RouteX.UAF.WebApi.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -103,365 +33,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StopActionType.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Enums\\StopActionType.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\Enums\\StopActionType.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Enums\\StopActionType.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\Enums\\StopActionType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.WebApi\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.WebApi\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:59:25.191Z",
+              "WhenOpened": "2026-04-29T12:21:24.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RouteDirectionType.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Enums\\RouteDirectionType.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\Enums\\RouteDirectionType.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Enums\\RouteDirectionType.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\Enums\\RouteDirectionType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:59:12.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RoleType.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Enums\\RoleType.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\Enums\\RoleType.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Enums\\RoleType.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\Enums\\RoleType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:58:53.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RouteSummaryDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\RouteSummaryDto.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\DTOs\\RouteSummaryDto.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\RouteSummaryDto.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\DTOs\\RouteSummaryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:58:05.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BusStopDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\BusStopDto.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\DTOs\\BusStopDto.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\BusStopDto.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\DTOs\\BusStopDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:57:47.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RouteDetailsDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\RouteDetailsDto.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\DTOs\\RouteDetailsDto.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\RouteDetailsDto.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\DTOs\\RouteDetailsDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:57:36.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LocationPushDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\LocationPushDto.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\DTOs\\LocationPushDto.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\LocationPushDto.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\DTOs\\LocationPushDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:57:22.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LiveLocationBroadcastDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\LiveLocationBroadcastDto.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\DTOs\\LiveLocationBroadcastDto.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\LiveLocationBroadcastDto.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\DTOs\\LiveLocationBroadcastDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:57:11.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\UserDto.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\DTOs\\UserDto.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\UserDto.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\DTOs\\UserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:56:37.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BusDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\BusDto.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\DTOs\\BusDto.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\BusDto.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\DTOs\\BusDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:56:19.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LogoutDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\LogoutDto.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\DTOs\\LogoutDto.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\LogoutDto.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\DTOs\\LogoutDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:55:50.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TokenRefreshDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\TokenRefreshDto.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\DTOs\\TokenRefreshDto.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\TokenRefreshDto.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\DTOs\\TokenRefreshDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:55:08.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LoginLog.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\LoginLog.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\Models\\LoginLog.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\LoginLog.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\Models\\LoginLog.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:51:29.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "RefreshToken.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\RefreshToken.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\Models\\RefreshToken.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\RefreshToken.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\Models\\RefreshToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:51:02.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DeviceToken.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\DeviceToken.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\Models\\DeviceToken.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\DeviceToken.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\Models\\DeviceToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:50:45.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\LoginDto.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\DTOs\\LoginDto.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\LoginDto.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\DTOs\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:36:37.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "VerifyOtpDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\VerifyOtpDto.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\DTOs\\VerifyOtpDto.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\VerifyOtpDto.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\DTOs\\VerifyOtpDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:35:46.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "RegisterStudentDto.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\RegisterStudentDto.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\DTOs\\RegisterStudentDto.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\DTOs\\RegisterStudentDto.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\DTOs\\RegisterStudentDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:35:30.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "LocationLog.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\LocationLog.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\Models\\LocationLog.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\LocationLog.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\Models\\LocationLog.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:33:36.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "BusStop.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\BusStop.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\Models\\BusStop.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\BusStop.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\Models\\BusStop.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:33:00.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Route.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\Route.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\Models\\Route.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\Route.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\Models\\Route.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:32:47.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Bus.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\Bus.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\Models\\Bus.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\Bus.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\Models\\Bus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:32:25.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\User.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\Models\\User.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\User.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\Models\\User.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwB0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T08:11:05.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "StopAction.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\StopAction.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\Models\\StopAction.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\StopAction.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\Models\\StopAction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:31:13.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "RouteDirection.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\RouteDirection.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\Models\\RouteDirection.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\RouteDirection.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\Models\\RouteDirection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:30:59.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Role.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\Role.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\Models\\Role.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\Role.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\Models\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:30:34.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "AuditableEntity.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Base\\AuditableEntity.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\Base\\AuditableEntity.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Base\\AuditableEntity.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\Base\\AuditableEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T10:29:41.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.DAL\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "..\\RouteX.UAF.DAL\\ApplicationDbContext.cs",
               "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.DAL\\ApplicationDbContext.cs",
               "RelativeToolTip": "..\\RouteX.UAF.DAL\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T08:02:33.403Z"
+              "WhenOpened": "2026-04-29T12:20:31.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "..\\RouteX.UAF.DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "..\\RouteX.UAF.DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T12:20:21.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.WebApi\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.WebApi\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwE4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-29T11:34:02.464Z",
+              "EditorCaption": ""
             }
           ]
         }

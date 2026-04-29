@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RouteX.UAF.DAL;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -13,6 +14,10 @@ namespace RouteX.UAF.WebApi
     {
         protected void Application_Start()
         {
+            using (var context = new ApplicationDbContext())
+            {
+                context.Database.Initialize(force: true);
+            }
             AreaRegistration.RegisterAllAreas();
             GlobalConfiguration.Configure(WebApiConfig.Register);
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);

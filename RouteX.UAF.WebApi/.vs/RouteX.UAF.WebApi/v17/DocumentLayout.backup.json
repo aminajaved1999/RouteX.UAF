@@ -3,10 +3,8 @@
   "WorkspaceRootPath": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E77DF2A-6D5E-4115-818E-0E2624071EC9}|..\\RouteX.UAF.DAL\\RouteX.UAF.DAL.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4B3CB77-7286-49C4-9C11-24B8B1B684C9}|RouteX.UAF.WebApi.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.webapi\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B4B3CB77-7286-49C4-9C11-24B8B1B684C9}|RouteX.UAF.WebApi.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,27 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\User.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\Models\\User.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\User.cs*",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\Models\\User.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T08:11:05.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.DAL\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.DAL\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.DAL\\ApplicationDbContext.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.DAL\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T08:02:33.403Z",
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.WebApi\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.WebApi\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-29T11:34:02.464Z",
               "EditorCaption": ""
             }
           ]
