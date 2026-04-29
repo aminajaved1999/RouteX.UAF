@@ -41,13 +41,36 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Base\AuditableEntity.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="DTOs\BusDto.cs" />
+    <Compile Include="DTOs\BusStopDto.cs" />
+    <Compile Include="DTOs\LiveLocationBroadcastDto.cs" />
+    <Compile Include="DTOs\LocationPushDto.cs" />
+    <Compile Include="DTOs\LoginDto.cs" />
+    <Compile Include="DTOs\LogoutDto.cs" />
+    <Compile Include="DTOs\RegisterStudentDto.cs" />
+    <Compile Include="DTOs\RouteDetailsDto.cs" />
+    <Compile Include="DTOs\RouteSummaryDto.cs" />
+    <Compile Include="DTOs\TokenRefreshDto.cs" />
+    <Compile Include="DTOs\UserDto.cs" />
+    <Compile Include="DTOs\VerifyOtpDto.cs" />
+    <Compile Include="Enums\RoleType.cs" />
+    <Compile Include="Enums\RouteDirectionType.cs" />
+    <Compile Include="Enums\StopActionType.cs" />
+    <Compile Include="Models\Bus.cs" />
+    <Compile Include="Models\BusStop.cs" />
+    <Compile Include="Models\DeviceToken.cs" />
+    <Compile Include="Models\LocationLog.cs" />
+    <Compile Include="Models\LoginLog.cs" />
+    <Compile Include="Models\RefreshToken.cs" />
+    <Compile Include="Models\Role.cs" />
+    <Compile Include="Models\Route.cs" />
+    <Compile Include="Models\RouteDirection.cs" />
+    <Compile Include="Models\StopAction.cs" />
+    <Compile Include="Models\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="DTOs\" />
-    <Folder Include="Enums\" />
-    <Folder Include="Models\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

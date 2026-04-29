@@ -1,7 +1,14 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.WebApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E77DF2A-6D5E-4115-818E-0E2624071EC9}|..\\RouteX.UAF.DAL\\RouteX.UAF.DAL.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +16,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\Models\\User.cs",
+              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\User.cs*",
+              "RelativeToolTip": "..\\RouteX.UAF.Entities\\Models\\User.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:11:05.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.DAL\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\RouteX.UAF.DAL\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.DAL\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\RouteX.UAF.DAL\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:02:33.403Z",
+              "EditorCaption": ""
             }
           ]
         }
