@@ -30,10 +30,7 @@ namespace RouteX.UAF.LogicLayer.Managers
 
             try
             {
-                var buses = await _context.Buses
-                    .Include(b => b.Driver)
-                    .Where(b => b.IsActive)
-                    .ToListAsync();
+                var buses = await _context.Buses.Where(b => b.IsActive).ToListAsync();
 
                 if (buses == null || buses.Count == 0)
                 {
@@ -63,9 +60,7 @@ namespace RouteX.UAF.LogicLayer.Managers
 
             try
             {
-                var bus = await _context.Buses
-                    .Include(b => b.Driver)
-                    .FirstOrDefaultAsync(b => b.Id == id && b.IsActive);
+                var bus = await _context.Buses.FirstOrDefaultAsync(b => b.Id == id && b.IsActive);
 
                 if (bus == null)
                 {
@@ -203,8 +198,6 @@ namespace RouteX.UAF.LogicLayer.Managers
             busDto.Id = bus.Id;
             busDto.LicensePlate = bus.LicensePlate;
             busDto.Capacity = bus.Capacity;
-            busDto.DriverId = bus.DriverId;
-            busDto.DriverName = bus.Driver?.FullName;
 
             return busDto;
         }
@@ -217,7 +210,6 @@ namespace RouteX.UAF.LogicLayer.Managers
             entity.Id = dto.Id;
             entity.LicensePlate = dto.LicensePlate;
             entity.Capacity = dto.Capacity;
-            entity.DriverId = dto.DriverId;
 
             // If Id is 0, it's a new record, so set creation properties
             if (dto.Id == 0)
@@ -287,20 +279,6 @@ namespace RouteX.UAF.LogicLayer.Managers
                     res.isSuccess = false;
                     res.Code = (int)HttpStatusCode.BadRequest;
                     res.Message = "Assigned driver does not exist.";
-                    return res;
-                }
-
-                // 5. Check driver assignment conflicts
-                var isDriverAssignedToAnotherBus = await _context.Buses
-                .AnyAsync(b => b.DriverId == dto.DriverId
-                            && b.Id != dto.Id
-                            && b.IsActive);
-
-                if (isDriverAssignedToAnotherBus)
-                {
-                    res.isSuccess = false;
-                    res.Code = (int)HttpStatusCode.BadRequest;
-                    res.Message = "The assigned driver is already assigned to another active bus.";
                     return res;
                 }
 

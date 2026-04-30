@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace RouteX.UAF.Entities.Models
 {
-    public class DeviceToken
+    public class DeviceToken: AuditableEntity
     {
         public int Id { get; set; }
 

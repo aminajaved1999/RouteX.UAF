@@ -8,8 +8,8 @@ namespace RouteX.UAF.Entities.DTOs
 {
     public class LogoutDto
     {
-        public int UserId { get; set; }
-        public string SessionId { get; set; }
-        public string RefreshToken { get; set; } // Used to identify which token to revoke
+        public string AccessToken { get; set; }  // JWT access token to identify the user
+        public string DeviceToken { get; set; }  // Unique device token (e.g., FCM token)
+
     }
 }

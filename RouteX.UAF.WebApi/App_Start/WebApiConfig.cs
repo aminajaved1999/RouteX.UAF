@@ -12,6 +12,8 @@ namespace RouteX.UAF.WebApi
         {
             // Web API configuration and services
 
+            config.MessageHandlers.Add(new JwtAuthenticationHandler());
+
             // Web API routes
             config.MapHttpAttributeRoutes();
 

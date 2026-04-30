@@ -19,8 +19,9 @@ namespace RouteX.UAF.Entities.Models
 
         public bool IsLoggedIn { get; set; }
 
-        public string Token { get; set; } // Can store the JWT or a specific Session identifier
+        public string AccessToken { get; set; } // Can store the JWT or a specific Session identifier
         public string BaseUrl { get; set; }
         public string IpAddress { get; set; } // Great addition for security monitoring
+        public string UserAgent { get; set; } // Great addition for security monitoring
     }
 }

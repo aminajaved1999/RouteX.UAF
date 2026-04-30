@@ -15,7 +15,7 @@ namespace RouteX.UAF.Entities.Models
         // Basic Profile Info
         public string FullName { get; set; }
         public string UafRegistrationNumber { get; set; } // E.g., "2018-AG-1234"
-        public string Email { get; set; } // UAF Email for OTP verification
+        public string Email { get; set; } // Email for OTP verification or logging in
         public string PasswordHash { get; set; }
 
         // OTP Verification Fields
@@ -32,6 +32,13 @@ namespace RouteX.UAF.Entities.Models
         public virtual ICollection<RefreshToken> RefreshTokens { get; set; }
         public virtual ICollection<LoginLog> LoginLogs { get; set; }
 
-        
+        public User()
+        {
+            DeviceTokens = new HashSet<DeviceToken>();
+            RefreshTokens = new HashSet<RefreshToken>();
+            LoginLogs = new HashSet<LoginLog>();
+        }
+
+
     }
 }

@@ -10,7 +10,7 @@ namespace RouteX.UAF.Entities.Models
     public class Role : AuditableEntity
     {
         public int Id { get; set; }
-        public string Name { get; set; } // E.g., "Admin", "Driver", "Student"
+        public string Name { get; set; } // E.g., "Admin", "Student"
 
         public virtual ICollection<User> Users { get; set; }
     }

@@ -54,6 +54,7 @@
     <Compile Include="Base\APIResponse.cs" />
     <Compile Include="Base\AuditableEntity.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="DTOs\AuthResponseDto.cs" />
     <Compile Include="DTOs\BusDto.cs" />
     <Compile Include="DTOs\BusStopDto.cs" />
     <Compile Include="DTOs\LiveLocationBroadcastDto.cs" />
@@ -61,6 +62,7 @@
     <Compile Include="DTOs\LoginDto.cs" />
     <Compile Include="DTOs\LogoutDto.cs" />
     <Compile Include="DTOs\RegisterStudentDto.cs" />
+    <Compile Include="DTOs\RoleDto.cs" />
     <Compile Include="DTOs\RouteDetailsDto.cs" />
     <Compile Include="DTOs\RouteSummaryDto.cs" />
     <Compile Include="DTOs\TokenRefreshDto.cs" />
