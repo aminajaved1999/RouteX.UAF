@@ -18,6 +18,7 @@ namespace RouteX.UAF.WebApi
             {
                 context.Database.Initialize(force: true);
             }
+            UnityConfig.RegisterComponents();                           
             AreaRegistration.RegisterAllAreas();
             GlobalConfiguration.Configure(WebApiConfig.Register);
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);

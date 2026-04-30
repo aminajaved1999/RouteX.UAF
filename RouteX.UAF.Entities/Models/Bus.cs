@@ -13,8 +13,6 @@ namespace RouteX.UAF.Entities.Models
         public string LicensePlate { get; set; }
         public int Capacity { get; set; }
 
-        public bool IsCurrentlyActive { get; set; }
-
         // Nullable because a bus might be parked or unassigned temporarily
         public int? DriverId { get; set; }
         public virtual User Driver { get; set; }

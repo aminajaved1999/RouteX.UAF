@@ -11,7 +11,9 @@ namespace RouteX.UAF.Entities.DTOs
         public int Id { get; set; }
         public string LicensePlate { get; set; }
         public int Capacity { get; set; }
-        public bool IsCurrentlyActive { get; set; }
-        public string DriverName { get; set; } // Nullable if unassigned
+        public int? DriverId { get; set; }
+        public string DriverName { get; set; }
+        public UserDto Driver { get; set; }
+
     }
 }
