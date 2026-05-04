@@ -7,8 +7,9 @@ using System.Web.Http;
 
 namespace RouteX.UAF.WebApi.Controllers
 {
+    [Authorize]
     [RoutePrefix("api/Bus")]
-    public class BusController : ApiController
+    public class BusController : BaseApiController
     {
         private readonly IBusManager _busManager;
 
@@ -54,10 +55,7 @@ namespace RouteX.UAF.WebApi.Controllers
                 return BadRequest("LicensePlate is required");
             }
 
-
-            int loggedInUserId = 1;
-
-            var response = await _busManager.AddBusAsync(dto, loggedInUserId);
+            var response = await _busManager.AddBusAsync(dto, LoggedInUserId);
             return Content((HttpStatusCode)response.Code, response);
         }
 
@@ -75,9 +73,7 @@ namespace RouteX.UAF.WebApi.Controllers
                 return BadRequest("A valid Bus ID is required to update a record.");
             }
 
-            int loggedInUserId = 1;
-
-            var response = await _busManager.UpdateBusAsync(dto, loggedInUserId);
+            var response = await _busManager.UpdateBusAsync(dto, LoggedInUserId);
             return Content((HttpStatusCode)response.Code, response);
         }
 
@@ -90,9 +86,7 @@ namespace RouteX.UAF.WebApi.Controllers
                 return BadRequest("Please provide a valid Bus ID to delete.");
             }
 
-            int loggedInUserId = 1;
-
-            var response = await _busManager.DeleteBusAsync(id.Value, loggedInUserId);
+            var response = await _busManager.DeleteBusAsync(id.Value, LoggedInUserId);
             return Content((HttpStatusCode)response.Code, response);
         }
 

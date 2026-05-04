@@ -3,31 +3,20 @@
   "WorkspaceRootPath": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.WebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4B3CB77-7286-49C4-9C11-24B8B1B684C9}|RouteX.UAF.WebApi.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.webapi\\app_start\\jwtauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4B3CB77-7286-49C4-9C11-24B8B1B684C9}|RouteX.UAF.WebApi.csproj|solutionrelative:app_start\\jwtauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4B3CB77-7286-49C4-9C11-24B8B1B684C9}|RouteX.UAF.WebApi.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.webapi\\controllers\\buscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B3CB77-7286-49C4-9C11-24B8B1B684C9}|RouteX.UAF.WebApi.csproj|solutionrelative:controllers\\buscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4B3CB77-7286-49C4-9C11-24B8B1B684C9}|RouteX.UAF.WebApi.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.webapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4B3CB77-7286-49C4-9C11-24B8B1B684C9}|RouteX.UAF.WebApi.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4B3CB77-7286-49C4-9C11-24B8B1B684C9}|RouteX.UAF.WebApi.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B3CB77-7286-49C4-9C11-24B8B1B684C9}|RouteX.UAF.WebApi.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E997CCE-3643-49B2-BB70-5E1463E4D3A5}|..\\RouteX.UAF.LogicLayer\\RouteX.UAF.LogicLayer.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.logiclayer\\utilities\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4B3CB77-7286-49C4-9C11-24B8B1B684C9}|RouteX.UAF.WebApi.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.webapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B3CB77-7286-49C4-9C11-24B8B1B684C9}|RouteX.UAF.WebApi.csproj|solutionrelative:controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4B3CB77-7286-49C4-9C11-24B8B1B684C9}|RouteX.UAF.WebApi.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4B3CB77-7286-49C4-9C11-24B8B1B684C9}|RouteX.UAF.WebApi.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E997CCE-3643-49B2-BB70-5E1463E4D3A5}|..\\RouteX.UAF.LogicLayer\\RouteX.UAF.LogicLayer.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.logiclayer\\managers\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\models\\devicetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E997CCE-3643-49B2-BB70-5E1463E4D3A5}|..\\RouteX.UAF.LogicLayer\\RouteX.UAF.LogicLayer.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.logiclayer\\managers\\busmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6A78F63-C0D8-447F-B54D-A5D5F591B63D}|..\\RouteX.UAF.Entities\\RouteX.UAF.Entities.csproj|d:\\projects\\repo\\routex.uaf\\routex.uaf.entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,79 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "JwtAuthenticationHandler.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.WebApi\\App_Start\\JwtAuthenticationHandler.cs",
-              "RelativeDocumentMoniker": "App_Start\\JwtAuthenticationHandler.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.WebApi\\App_Start\\JwtAuthenticationHandler.cs",
-              "RelativeToolTip": "App_Start\\JwtAuthenticationHandler.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Title": "BusController.cs",
+              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.WebApi\\Controllers\\BusController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BusController.cs",
+              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.WebApi\\Controllers\\BusController.cs",
+              "RelativeToolTip": "Controllers\\BusController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T12:33:23.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "JwtTokenGenerator.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.LogicLayer\\Utilities\\JwtTokenGenerator.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.LogicLayer\\Utilities\\JwtTokenGenerator.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.LogicLayer\\Utilities\\JwtTokenGenerator.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.LogicLayer\\Utilities\\JwtTokenGenerator.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAgwCAAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T12:32:04.617Z",
+              "WhenOpened": "2026-05-04T05:17:16.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WebApiConfig.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.WebApi\\App_Start\\WebApiConfig.cs",
-              "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.WebApi\\App_Start\\WebApiConfig.cs",
-              "RelativeToolTip": "App_Start\\WebApiConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.WebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.WebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAcwEQAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T12:31:43.769Z",
+              "WhenOpened": "2026-05-04T05:16:29.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DeviceToken.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\DeviceToken.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\Models\\DeviceToken.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\DeviceToken.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\Models\\DeviceToken.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.WebApi\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoleController.cs",
+              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.WebApi\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Controllers\\RoleController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAA7wFgAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T12:15:05.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BusManager.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.LogicLayer\\Managers\\BusManager.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.LogicLayer\\Managers\\BusManager.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.LogicLayer\\Managers\\BusManager.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.LogicLayer\\Managers\\BusManager.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA5wDMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T12:05:50.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\User.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.Entities\\Models\\User.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.Entities\\Models\\User.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.Entities\\Models\\User.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAuwCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T11:53:02.93Z",
+              "WhenOpened": "2026-05-04T05:04:43.218Z",
               "EditorCaption": ""
             },
             {
@@ -129,22 +79,9 @@
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
               "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.WebApi\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAQwHAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAhwEoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T11:51:26.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AuthManager.cs",
-              "DocumentMoniker": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.LogicLayer\\Managers\\AuthManager.cs",
-              "RelativeDocumentMoniker": "..\\RouteX.UAF.LogicLayer\\Managers\\AuthManager.cs",
-              "ToolTip": "D:\\Projects\\Repo\\RouteX.UAF\\RouteX.UAF.LogicLayer\\Managers\\AuthManager.cs",
-              "RelativeToolTip": "..\\RouteX.UAF.LogicLayer\\Managers\\AuthManager.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAmwF8BAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T11:51:55.739Z",
+              "WhenOpened": "2026-05-04T05:04:06.785Z",
               "EditorCaption": ""
             }
           ]

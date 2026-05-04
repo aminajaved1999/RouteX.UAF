@@ -7,7 +7,7 @@ using System.Web.Http;
 
 namespace RouteX.UAF.WebApi.Controllers
 {
-    public class RouteController : ApiController
+    public class RouteController : BaseApiController
     {
         // GET api/<controller>
         public IEnumerable<string> Get()

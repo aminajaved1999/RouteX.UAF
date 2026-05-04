@@ -6,8 +6,9 @@ using System.Web.Http;
 
 namespace RouteX.UAF.WebApi.Controllers
 {
+    [Authorize]
     [RoutePrefix("api/User")]
-    public class UserController : ApiController
+    public class UserController : BaseApiController
     {
         private readonly IUserManager _userManager;
 
@@ -65,9 +66,7 @@ namespace RouteX.UAF.WebApi.Controllers
                 return BadRequest("Role is required.");
             }
 
-            int loggedInUserId = 1;  // For example, set logged-in user ID to 1.
-
-            var response = await _userManager.AddUserAsync(dto, loggedInUserId);
+            var response = await _userManager.AddUserAsync(dto, LoggedInUserId);
             return Content((HttpStatusCode)response.Code, response);
         }
 
@@ -100,9 +99,7 @@ namespace RouteX.UAF.WebApi.Controllers
                 return BadRequest("Role is required.");
             }
 
-            int loggedInUserId = 1;
-
-            var response = await _userManager.UpdateUserAsync(dto, loggedInUserId);
+            var response = await _userManager.UpdateUserAsync(dto, LoggedInUserId);
             return Content((HttpStatusCode)response.Code, response);
         }
 
@@ -116,9 +113,7 @@ namespace RouteX.UAF.WebApi.Controllers
                 return BadRequest("Please provide a valid User ID to delete.");
             }
 
-            int loggedInUserId = 1;
-
-            var response = await _userManager.DeleteUserAsync(id.Value, loggedInUserId);
+            var response = await _userManager.DeleteUserAsync(id.Value, LoggedInUserId);
             return Content((HttpStatusCode)response.Code, response);
         }
 

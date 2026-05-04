@@ -6,8 +6,9 @@ using System.Web.Http;
 
 namespace RouteX.UAF.WebApi.Controllers
 {
+    [Authorize]
     [RoutePrefix("api/Role")]
-    public class RoleController : ApiController
+    public class RoleController : BaseApiController
     {
         private readonly IRoleManager _roleManager;
 
@@ -54,9 +55,7 @@ namespace RouteX.UAF.WebApi.Controllers
                 return BadRequest("Role Name is required.");
             }
 
-            int loggedInUserId = 1;  // In a real scenario, this should be fetched from the current user's session or token.
-
-            var response = await _roleManager.AddRoleAsync(dto, loggedInUserId);
+            var response = await _roleManager.AddRoleAsync(dto, LoggedInUserId);
             return Content((HttpStatusCode)response.Code, response);
         }
 
@@ -74,9 +73,7 @@ namespace RouteX.UAF.WebApi.Controllers
                 return BadRequest("A valid Role ID is required to update a record.");
             }
 
-            int loggedInUserId = 1;  // In a real scenario, this should be fetched from the current user's session or token.
-
-            var response = await _roleManager.UpdateRoleAsync(dto, loggedInUserId);
+            var response = await _roleManager.UpdateRoleAsync(dto, LoggedInUserId);
             return Content((HttpStatusCode)response.Code, response);
         }
 
@@ -89,9 +86,7 @@ namespace RouteX.UAF.WebApi.Controllers
                 return BadRequest("Please provide a valid Role ID to delete.");
             }
 
-            int loggedInUserId = 1;  // In a real scenario, this should be fetched from the current user's session or token.
-
-            var response = await _roleManager.DeleteRoleAsync(id.Value, loggedInUserId);
+            var response = await _roleManager.DeleteRoleAsync(id.Value, LoggedInUserId);
             return Content((HttpStatusCode)response.Code, response);
         }
 

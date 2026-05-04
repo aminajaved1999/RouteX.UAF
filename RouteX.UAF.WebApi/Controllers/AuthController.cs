@@ -12,7 +12,7 @@ using System.Web.Http;
 namespace RouteX.UAF.WebApi.Controllers
 {
     [RoutePrefix("api/auth")]
-    public class AuthController : ApiController
+    public class AuthController : BaseApiController
     {
         private readonly IAuthManager _authManager;
         public AuthController(IAuthManager authManager)
@@ -22,6 +22,7 @@ namespace RouteX.UAF.WebApi.Controllers
 
         [HttpPost]
         [Route("login")]
+        [AllowAnonymous]
         public IHttpActionResult Login([FromBody] LoginDto dto)
         {
 
@@ -58,7 +59,6 @@ namespace RouteX.UAF.WebApi.Controllers
         // Logout from all devices
         [HttpPost]
         [Route("logout/all")]
-        [Authorize]
         public IHttpActionResult LogoutFromAllDevices()
         {
             // Extract token from header instead of body
@@ -72,7 +72,6 @@ namespace RouteX.UAF.WebApi.Controllers
         // Logout from the current device
         [HttpPost]
         [Route("logout")]
-        [Authorize]
         public IHttpActionResult LogoutFromCurrentDevice()
         {
             var accessToken = Request.Headers.Authorization?.Parameter;
